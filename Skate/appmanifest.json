@@ -1,9 +1,9 @@
 ﻿{
-	"name": "Calli_skate",
-	"short_name": "Calli_skate",
+	"name": "Calli_SportSkate",
+	"short_name": "Calli_SportSkate",
 	"start_url": "index.html",
-	"display": "standalone",
-	"orientation": "any",
+	"display": "fullscreen",
+	"orientation": "portrait",
 	"icons": [{
 		"src": "icon-16.png",
 		"sizes": "16x16",
